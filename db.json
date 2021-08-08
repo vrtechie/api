@@ -1,11 +1,6 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+"profile": {
+    "first_name": "Vivan",
+    "last_name":"Parmar",
+    "birthdate":"4-8-2000",
+    "collage_name":"LJ Collage"
   }
-}
